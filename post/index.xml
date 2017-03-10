@@ -6,8 +6,18 @@
     <description>Recent content in Posts on jemisama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 10 Mar 2017 16:15:42 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Mar 2017 17:41:41 +0900</lastBuildDate>
     <atom:link href="https://jemisama.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>new post</title>
+      <link>https://jemisama.github.io/post/new-post/</link>
+      <pubDate>Fri, 10 Mar 2017 17:41:41 +0900</pubDate>
+      
+      <guid>https://jemisama.github.io/post/new-post/</guid>
+      <description>&lt;p&gt;new post here!!!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>good to great</title>
